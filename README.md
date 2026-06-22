@@ -1,6 +1,6 @@
 # Multilingual Health Question Answering in Low-Resource African Languages
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ReneNtabana/health-qa-african-languages/blob/main/notebooks/African_Health_QA_Challenge_colab_ready.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ReneNtabana/African-Language-Health-QA-Challenge/blob/main/notebooks/African_Health_QA_Challenge_colab_ready.ipynb)
 
 Final project for the **Multilingual Health Question Answering in Low-Resource African Languages Challenge** (Zindi, co-organized by ITU, HASH, and Makerere University Centre for AI).
 
